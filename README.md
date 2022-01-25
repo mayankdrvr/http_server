@@ -13,7 +13,7 @@ HTML, CSS, Node.js
 
 ## Lessons Learned
 - Creating a basic HTTP web server.
-- Learned about Response header content-type, error codes and some methods of Node.js http module.
+- Learned about response header content-type, error codes and some methods of Node.js http module.
 
 ## Authors
 
